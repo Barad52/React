@@ -1,0 +1,29 @@
+body{
+    background-color: lightgreen;
+}
+.main{
+    border: 1px solid black;
+    height: 460px;
+    width: 800px;
+    background-color: white;
+    margin-left: 28%;
+    margin-top: 12%;
+}
+.container {
+    display: flex;
+}
+img {
+    height: 380px;
+    width: 350px;
+}
+.images{
+    width: 350px;
+}
+.line {
+    width: 1px;
+    height: 380px;
+    background-color: black;
+}
+.detail {
+    padding: 40px;
+}
